@@ -27,7 +27,7 @@ Börja med att skapa en startsida som visar alla tillgängliga produkter.
 
 * [ ] Skapa en mappning för produkten med hjälp av ett **Interface** (se tips nedan).
 * [ ] Använd en `async` funktion för att hämta produkterna i `page.tsx`.
-* [ ] Rendera produkterna i ett snyggt grid med Tailwind.
+* [ ] Rendera produkterna i ett snyggt grid med Tailwind. CSS modules är helt okej!
 * [ ] **Bonus:** Lägg till felhantering med `try/catch` så att sidan inte dör om API:et ligger nere.
 
 ### Del 2: Dynamiska Produktsidor (Tisdag)
